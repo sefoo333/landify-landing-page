@@ -5,7 +5,7 @@ Next.js - TailwindCss -TypeScript - shadCn ui
 
 ## Short Description
 <p>reponsive landing page for landify app using next.js and shadcn</p>
-Demo: https://landify-landing-page-rose.vercel.app/
+Link to the sample section: [Link Text](https://landify-landing-page-rose.vercel.app/)
 
 ## Getting Started
 

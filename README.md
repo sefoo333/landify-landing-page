@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Landify Landing Page
+
+## technologies
+Next.js - TailwindCss -TypeScript - shadCn ui
+
+## Short Description
+<p>reponsive landing page for landify app using next.js and shadcn</p>
 
 ## Getting Started
 
